@@ -1,0 +1,61 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+}
+
+body {
+    background-image: url(http://www.karategenocchio.it/cms/wp-content/uploads/2013/07/001-wood-melamine-subttle-pattern-background-pat1-300x159.jpg);
+}
+
+#logo{
+    width: 10%;
+    float: left;
+}
+
+#gmail{
+ padding: 46px;
+ color: rgb(255, 255, 255);
+ font-size: 32px;
+ color: white;
+}
+
+hr {
+    color: white;
+    margin-top: 10px;
+
+}
+
+.circle {
+    background-color: rgba(255, 0, 0, 0.5);
+    border-radius: 50%;
+    font-size: 20px;
+    padding: 8px;
+}
+
+.bordermail {
+    border-style: solid;
+    border-color: black;
+    background-color: #CCD1D1;
+    color: black;
+    margin: 0;
+}
+
+#oggettobianco {
+    background-color: white;
+}
+
+.textemail {
+    color: #616A6B;
+}
+
+.end {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+#firm {
+    font-size: 20px;
+    font-style: oblique;
+}
